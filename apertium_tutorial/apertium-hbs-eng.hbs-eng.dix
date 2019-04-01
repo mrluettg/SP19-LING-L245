@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <alphabet/>
+   <sdefs>
+     <sdef n="n"/>
+     <sdef n="sg"/>
+     <sdef n="pl"/>
+     <sdef n="vblex"/>
+   </sdefs>
+
+   <section id="main" type="standard">
+	<e><p><l>gramofon<s n="n"/></l><r>record player<s n="n"/></r></p></e>
+	<e><p><l>videti<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
+
+   </section>
+</dictionary>
